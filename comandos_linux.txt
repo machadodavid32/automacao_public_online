@@ -1,0 +1,28 @@
+# verificar onde estou atualmente
+pwd
+# ver quais arquivos existem na pasta atual
+ls - 
+# ver quais arquivos existem na pasta atual(até arquivos escondidos)
+ls -a
+# criar pasta
+mkdir nome_pasta
+# criar arquivo
+touch nome_arquivo.extensão
+# abrir arquivo para leitura 
+nano caminho_para_arquivo
+# ler conteúdo de um arquivo
+cat nome_arquivo
+# navegar entre diretórios
+cd diretorio
+# voltar um nível
+cd ..
+
+
+# executar um processo sem bloquear o terminal
+nohup xxxxxx &
+# verificar quais processos estão rodando atualmente
+htop
+# (dentro do htop) - matar um processo
+f9 + enter
+# (dentro do htop) - sair do htop
+f10

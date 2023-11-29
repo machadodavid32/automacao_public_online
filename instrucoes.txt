@@ -1,0 +1,3 @@
+Instale a biblioteca schedule
+Documentação schedule: https://schedule.readthedocs.io/en/stable/
+
